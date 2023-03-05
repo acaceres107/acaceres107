@@ -1,4 +1,4 @@
-# ¡Hola! Soy {Agustin Caceres} 
+# ¡Hola! Soy Agustin Caceres 
 
 Soy Desarrollador Web Full Stack, estudie en el Bootcamp de MindHub y me caracterizo por mi buena adaptabilidad a la hora de trabajar en equipos, destaco mi habilidad para poder tomar el papel de líder si la situación lo amerita.
 
