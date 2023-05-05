@@ -6,9 +6,9 @@ Soy Desarrollador Web Full Stack, estudie en el Bootcamp de MindHub y me caracte
 ## Estadísticas de GitHub
 Te comparto este gráfico para que puedas ver las tecnologías que más utilizo.
 
-![Estadísticas de {Agustin} en GitHub](https://github-readme-stats.vercel.app/api?username={acaceres107}&show_icons=true&theme=radical)
+![Estadísticas de {Agustin} en GitHub](https://github-readme-stats.vercel.app/api?username=acaceres107&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={acaceres107}&layout=compact)](https://github.com/{acaceres107})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaceres107&layout=compact)](https://github.com/{acaceres107})
 
 
 ## Proyectos destacados
@@ -22,7 +22,7 @@ Te comparto este gráfico para que puedas ver las tecnologías que más utilizo.
 Muchas gracias por haber visitado mi perfil! Si estas interesado en incorporarme a tu equipo de trabajo, te comparto mi [LinkedIn](https://www.linkedin.com/in/agustin-caceres-293b4b149/)
 
 
-## ¡Hi! I'm {Agustin Caceres}
+## ¡Hi! I'm Agustin Caceres
 
 I am a Full Stack Web Developer, I studied at MindHub Bootcamp and I am characterized by my good adaptability when working in teams, I highlight my ability to take the role of leader if the situation warrants it.
 
@@ -31,10 +31,10 @@ I am a Full Stack Web Developer, I studied at MindHub Bootcamp and I am characte
 
 I share this chart with you so you can see the technologies I use most frequently.
 
-![Agustin's statistics on GitHub](https://github-readme-stats.vercel.app/api?username={acaceres107}&show_icons=true&theme=radical)
+![Agustin's statistics on GitHub](https://github-readme-stats.vercel.app/api?username=acaceres107&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={acaceres107}&layout=compact)](https://github.com/{acaceres107})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaceres107&layout=compact)](https://github.com/{acaceres107})
 
 
 ##Featured projects
